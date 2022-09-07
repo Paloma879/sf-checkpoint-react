@@ -3,24 +3,28 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    background-image: url(https://images.mubicdn.net/images/film/175904/cache-234516-1508898060/image-w1280.jpg);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFIBVzsEZmBMERmKlhG2PSd1IFL2Keclnd1A&usqp=CAUhttps://img.freepik.com/vector-premium/formas-geometricas-abstractas-negras-rojas-sobre-fondo-blanco-adecuado-fondo-presentacion-banner-pagina-destino-web-interfaz-usuario-aplicacion-movil-diseno-editorial-volante-banner-otras-ocasiones-relacionadas_181182-14460.jpg);
     background-size:cover;
     background-repeat:no-repeat;
 }
 
 .users-card {
-    background-color: rgb(243, 236, 172); 
+    background-color: rgba(9, 224, 116, 0.226); 
     text-align: center;
     width: 20%;
     margin: 1.3rem;
     padding: 2rem;
     border-radius: 5%;
-    box-shadow: 2px 5px 9px gray;
+    box-shadow: 2px 5px 9px rgb(255, 253, 253);
 }
 
 .title{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: bold;
     text-transform: uppercase;
+}
+.users-card:hover {
+    background: linear-gradient(to right, #EAE509, #5BB318, #2B7A0B);
+   
 }
 
