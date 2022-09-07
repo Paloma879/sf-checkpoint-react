@@ -3,7 +3,11 @@
     flex-direction: column;
     align-items: center;
     padding: 3%;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFIBVzsEZmBMERmKlhG2PSd1IFL2Keclnd1A&usqp=CAUhttps://img.freepik.com/vector-premium/formas-geometricas-abstractas-negras-rojas-sobre-fondo-blanco-adecuado-fondo-presentacion-banner-pagina-destino-web-interfaz-usuario-aplicacion-movil-diseno-editorial-volante-banner-otras-ocasiones-relacionadas_181182-14460.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
 }
+
 .buttons{
     display: flex;
     flex-wrap: wrap;
