@@ -1,7 +1,12 @@
 .footer-cont{
     display: flex;
+    column-span: all;
     background-color: black;
     color: white;
     width: 100%;
+    height: auto;
     justify-content: space-evenly;
+}
+.footer-cont:hover{
+    background: linear-gradient(to right, #3D8361, #D6CDA4, #2B7A0B);
 }
