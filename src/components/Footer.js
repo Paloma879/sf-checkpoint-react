@@ -7,7 +7,8 @@ const Footer = () => {
         <p><a href="https://github.com/exequielhb">Exequiel Herrera</a></p>
         <p><a href="https://github.com/lemarchesi09">Enzo Marchesi</a></p>
         <p><a href="https://github.com/Paloma879">Paloma Martinez</a></p>
-        <p>Ian Pereyra</p>
+        <p><a href="https://github.com/Ianbpn">Ian Pereyra</a></p>
+        
       </div>
     );
   }
